@@ -22,7 +22,7 @@ The oversampling recall score (with SMOTE) has the highest score for predicting 
 - A confusion matrix has been generated 
 - An imbalanced classification report has been generated
 - We would put forward that this is the best model considering the financial cost risk associated with False Negatives. 
-- The file to ReSampling : [Resampling Starter Notebook](Challenge/credit_risk_resampling.ipynb)
+- The file to ReSampling : [Resampling Starter Notebook](credit_risk_resampling.ipynb)
 
 Easy Ensemble AdaBoost Classifier performs the best with our steps & dataset. 
 The EasyEnsembleClassifier algorithm does the following: 
@@ -34,7 +34,7 @@ The EasyEnsembleClassifier algorithm does the following:
 - A confusion matrix has been generated 
 - An imbalanced classification report has been generated 
 - We would move forward with this estimator for further predictions.
-- The File to Ensemble : [Ensemble Starter Notebook](Challenge/credit_risk_ensemble.ipynb)
+- The File to Ensemble : [Ensemble Starter Notebook](credit_risk_ensemble.ipynb)
 
 
 ## Summary
